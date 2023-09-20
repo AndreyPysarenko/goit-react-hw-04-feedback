@@ -1,0 +1,6 @@
+.statisticsList {
+    margin-bottom: 10px;
+}
+.statisticsList:last-child {
+    margin-bottom: 0;
+}
